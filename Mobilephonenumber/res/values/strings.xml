@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="first">手机号码小助手</string>
+    <string name="username">姓名：</string>
+    <string name="app_name">手机号码小助手</string>
+     <string name="userpwd">手机号:</string>
+     <string name="b_add">增加</string>
+      <string name="b_update">修改</string>
+      <string name="b_query">查询</string>
+</resources>
